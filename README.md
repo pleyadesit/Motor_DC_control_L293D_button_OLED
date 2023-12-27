@@ -1,1 +1,1 @@
-# Motor_DC_control_with_L293D_button_OLED
+# Motor DC control with L293D IC, one button and an OLED display
