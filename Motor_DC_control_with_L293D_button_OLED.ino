@@ -1,6 +1,6 @@
 /* Este programa activa el movimiento de un motor de CC a través de un CI L293D.
 Durante 4 segundos gira en un sentido y durante otros 4 gira en el otro; así sucesivamente.
-El led del pin 13 en se enciende en un sentido de giro y se apaga en el otro.*/
+El LED del pin 13 en se enciende en un sentido de giro y se apaga en el otro. */
 
 // Written by PLÉYADES IT
 
